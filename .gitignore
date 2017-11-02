@@ -1,0 +1,10 @@
+.idea/
+.vscode/
+/vendor/
+composer.phar
+composer.lock
+.env
+index2.php
+gitpull.php
+config.php
+.php_cs.cache

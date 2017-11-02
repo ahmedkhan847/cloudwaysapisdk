@@ -1,0 +1,26 @@
+{
+	"name": "ahmedkhan847/cloudwaysapiphpsdk",
+	"type": "SDK",
+	"description": "Cloudways API SDK for PHP",
+	"keywords": [
+		"cloudways API"
+	],
+	"homepage": "http://www.cloudways.com/",
+	"license": "MIT",
+	"authors": [{
+		"name": "Ahmed Khan",
+		"email": "ahmed.khan@cloudways.com",
+		"homepage": "https://github.com/ahmedkhan847"
+	}],
+	"require": {
+		"guzzlehttp/guzzle": "^6.2",
+		"phpunit/phpunit": "5.*"
+	},
+	"autoload": {
+		"psr-4": {
+			"Cloudways\\": "src/Cloudways/"
+		}
+	},
+	"version": "1.0.0",
+	"minimum-stability": "dev"
+}
