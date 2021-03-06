@@ -5,7 +5,7 @@ You can clone it to start working on it or use composer to install it.
 
 Type the following command to install SDK using composer
 
-`$composer require "cloudwaysapi/phpsdk:1.0.0.x-dev"`
+`$composer require ahmedkhan847/cloudwaysapiphpsdk`
 
 Or create a new file name it `composer.json` and paste the following code in it.
 ```
