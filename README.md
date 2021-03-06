@@ -11,7 +11,7 @@ Or create a new file name it `composer.json` and paste the following code in it.
 ```
     {
     	"require": {
-    		        "cloudwaysapi/phpsdk" : "1.0.0.x-dev"
+    		        "ahmedkhan847/cloudwaysapiphpsdk" : "1.0.0.x-dev"
     	    }
     }
 ```
